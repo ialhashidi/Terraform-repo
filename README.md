@@ -1,2 +1,2 @@
 # Terraform-repo
-This basic Terraform template allows you to create and proivision Github repo. 
+This basic Terraform template allows you to proivision a Github repo. 
